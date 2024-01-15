@@ -38,7 +38,7 @@ The Crop Prediction System is a comprehensive web application designed to assist
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crop-prediction-system.git
+   git clone https://github.com/ak18akashrajr/crop-prediction-system.git
    ```
 
 2. Install dependencies:
