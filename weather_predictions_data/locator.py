@@ -13,7 +13,8 @@ lat = 11.0168 # Coimbatore
 lon = 76.9558 # Coimbatore
 
 #  API key
-api_key = "6a2b15925e074c1f139105aa6f22db53"
+api_key = "###############################"
+'''Enter your api key , most recommended (openweather map api)'''
 
 #  base URL
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
