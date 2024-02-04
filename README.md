@@ -1,4 +1,4 @@
-# Crop Prediction System with Decision Tree Algorithm - Web Application
+# Crop Prediction System with Decision Tree Algorithm - BackEnd ML Model
 
 ## Overview
 
